@@ -1,3 +1,3 @@
 /// @description "God Mode"
 
-entity_health = 1000;
+entity_health = 9000;
