@@ -45,6 +45,7 @@ if ( point_distance( 0, 0, move_x, move_y ) > 0 ) {
 		}
 	}
 
+	//update position
 	var p = packet_start(packet_t.cursor);
 	if obj_steam.lobby_is_owner
 		buffer_write_int64(p, user);

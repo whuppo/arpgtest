@@ -25,5 +25,6 @@ enum packet_t {
     // server: (player, x, y)
     // Displayed cursor change
     cursor,
-	spawn_ent
+	spawn_ent,
+	spawn_proj,
 }

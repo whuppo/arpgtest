@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "5a0b5a92-b8fe-41de-9516-dcc308d461a8",
+            "Value": {
+                "id": "e913293e-e3dd-44b2-99fb-14bcc10b1824",
+                "resourcePath": "objects\\obj_projectile\\obj_projectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a9ba10a-f4b2-45f5-bed2-8921f604c0e3",
             "Value": {
                 "id": "ed017b0c-cb9b-4650-ba6c-e1a25db8b253",
@@ -391,6 +399,14 @@
             }
         },
         {
+            "Key": "6963c234-cae9-418c-99e7-0b0cc78e215a",
+            "Value": {
+                "id": "f09eef77-74d7-4895-9217-6fa00ed10913",
+                "resourcePath": "views\\6963c234-cae9-418c-99e7-0b0cc78e215a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6f57b222-6a23-4306-b911-4393084dee6e",
             "Value": {
                 "id": "7a5610cf-e5e7-4421-92e0-7d4d46b4fa3b",
@@ -428,6 +444,14 @@
                 "id": "44869be3-7568-4e19-ad7c-dae865d2e36e",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "833e57af-389c-49b8-ab19-af01a1db085c",
+            "Value": {
+                "id": "7b6aebbc-d59e-44e9-ba52-f6b77ee98a05",
+                "resourcePath": "objects\\obj_fireball\\obj_fireball.yy",
+                "resourceType": "GMObject"
             }
         },
         {
